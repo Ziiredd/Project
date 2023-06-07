@@ -51,7 +51,7 @@ Hay que tener en cuenta que estas fechas son una estimación.
 
 ## Stakeholders
 
-- Junta directiva de la compañia
+- Junta directiva de la compañia, Universidad Nacional.
 - El área de planeación infiere en el comportamiento de la demanda con la planificación de la demanda y la gestión de inventario de la compañía.
 - La expectativa es contar con modelo que nos permite ejecutar un proceso de predicción para cualquier serie de tiempo.
 
