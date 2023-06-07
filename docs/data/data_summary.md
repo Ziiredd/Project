@@ -4,7 +4,8 @@ Este documento contiene los resultados del análisis exploratorio de datos.
 
 ## Resumen general de los datos
 
-En esta sección se presenta un resumen general de los datos. Se describe el número total de observaciones, variables, el tipo de variables, la presencia de valores faltantes y la distribución de las variables.
+El dataset contiene 5461159 registros, el tamaño en megabytes del archivo es de 27.81 MB, tenemos un número importante de faltantes que debremos preprocesar, el conjunto de datos cuenta con etiquetas continuas.
+
 
 ## Resumen de calidad de los datos
 
