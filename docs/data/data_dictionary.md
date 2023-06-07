@@ -2,7 +2,8 @@
 
 ## Base de datos 1
 
-**Agregar una descripción de la tabla o fuente de datos.
+**Esta tabla contiene información de los atributos del material, es el registro de la venta histórica de cada uno de los productos.
+
 
 | Variable | Descripción | Tipo de dato | Rango/Valores posibles | Fuente de datos |
 | --- | --- | --- | --- | --- |
