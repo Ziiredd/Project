@@ -2,11 +2,11 @@
 
 ## Nombre del Proyecto
 
-Estimación de tiempo de sobrevivencia en casos de cáncer de seno triple negativo.
+Estimación de series de tiempo basadas en el comportamiento de la demanda de un producto de consumo.
 
 ## Objetivo del Proyecto
 
-El objetivo de este proyecto es entrenar, validar y desplegar un modelo de *deep learning* que use como insumo imágenes de histopatología de paciente con cáncer de seno triple-negativo confirmado para calcular su curva de sobrevivencia.
+El objetivo de este proyecto es entrenar, validar y desplegar un modelo de *deep learning* que use como insumo para la predicción de la demanda de cualquier productos del portafolio de la compañía.
 
 ## Alcance del Proyecto
 
@@ -14,10 +14,10 @@ El objetivo de este proyecto es entrenar, validar y desplegar un modelo de *deep
 
 - **Descripción de los datos disponibles:**
 
-Para el desarrollo del proyecto se utilizará el conjunto de datos reportado en *The cnacer genome atlas* (TCGA), disponible en: https://portal.gdc.cancer.gov. 
+Para el desarrollo del proyecto se utilizará el conjunto de datos que contiene el consumo histórico de los productos del portafolio de la compañia, nos enfocaremos en el comportamiento de la glicerina en Colombia, el origen de los datos es el ERP SAP de la compañía, datos de Enero 2021 a Abril 2023.
 
-- [Descripción de los resultados esperados]
-- [Criterios de éxito del proyecto]
+- Se espero desarrollar un modelo que nos permita realizar predicciones para cualquier demanda de un producto de la compañia.
+- Los datos que usaremos será la demanda mensual del producto a analizar.
 
 ### Excluye:
 
@@ -25,37 +25,36 @@ Para el desarrollo del proyecto se utilizará el conjunto de datos reportado en 
 
 ## Metodología
 
-[Descripción breve de la metodología que se utilizará para llevar a cabo el proyecto]
+En este proyecto, emplearemos la metodología de Redes Neuronales Recurrentes (LSTM) para realizar predicciones de series de tiempo. Las LSTM son un tipo de red neuronal especialmente diseñada para capturar patrones a largo plazo en secuencias temporales. Mediante el entrenamiento de la red con datos históricos, buscamos generar predicciones precisas y confiables para futuros puntos en la serie. Este enfoque nos permitirá aprovechar la capacidad de las LSTM para modelar la dependencia temporal en los datos, brindando insights valiosos para la toma de decisiones basadas en pronósticos de series de tiempo.
 
 ## Cronograma
 
 | Etapa | Duración Estimada | Fechas |
 |------|---------|-------|
-| Entendimiento del negocio y carga de datos | 2 semanas | del 1 de mayo al 15 de mayo |
-| Preprocesamiento, análisis exploratorio | 4 semanas | del 16 de mayo al 15 de junio |
-| Modelamiento y extracción de características | 4 semanas | del 16 de junio al 15 de julio |
-| Despliegue | 2 semanas | del 16 de julio al 31 de julio |
-| Evaluación y entrega final | 3 semanas | del 1 de agosto al 21 de agosto |
+| Entendimiento del negocio y carga de datos | 2 semanas | del 5 de junio al 9 de junio |
+| Preprocesamiento, análisis exploratorio | 4 semanas | del 12 de junio al 16 de junio |
+| Modelamiento y extracción de características | 4 semanas | del 19 de junio al 23 de junio |
+| Despliegue | 2 semanas | del 26 de julio al 3 de junio |
+| Evaluación y entrega final | 3 semanas | del 3 de julio al 7 de julio |
 
-Hay que tener en cuenta que estas fechas son de ejemplo, estas deben ajustarse de acuerdo al proyecto.
+Hay que tener en cuenta que estas fechas son una estimación.
 
 ## Equipo del Proyecto
 
-- [Nombre y cargo del líder del proyecto]
-- [Nombre y cargo de los miembros del equipo]
-
+- Edward Aguilar Quitian 
+  
 ## Presupuesto
 
 [Descripción del presupuesto asignado al proyecto]
 
 ## Stakeholders
 
-- [Nombre y cargo de los stakeholders del proyecto]
-- [Descripción de la relación con los stakeholders]
-- [Expectativas de los stakeholders]
+- Junta directiva de la compañia
+- El área de planeación infiere en el comportamiento de la demanda con la planificación de la demanda y la gestión de inventario de la compañía.
+- La expectativa es contar con modelo que nos permite ejecutar un proceso de predicción para cualquier serie de tiempo.
 
 ## Aprobaciones
 
-- [Nombre y cargo del aprobador del proyecto]
+- Juan Malagón
 - [Firma del aprobador]
 - [Fecha de aprobación]
