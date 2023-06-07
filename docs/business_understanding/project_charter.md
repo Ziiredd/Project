@@ -16,9 +16,11 @@ El objetivo de este proyecto es entrenar, validar y desplegar un modelo de *deep
 
 Para el desarrollo del proyecto se utilizará el conjunto de datos que contiene el consumo histórico de los productos del portafolio de la compañia, nos enfocaremos en el comportamiento de la glicerina en Colombia, el origen de los datos es el ERP SAP de la compañía, datos de Enero 2021 a Abril 2023.
 
-- Se espero desarrollar un modelo que nos permita realizar predicciones para cualquier demanda de un producto de la compañia.
-- Los datos que usaremos será la demanda mensual del producto a analizar.
+- **Criterios de éxito del proyecto**
 
+ - Un modelo que generé predicciones con alta precisión.
+ - Un servicio que procese los archivos que contienen la información de la demanda en el tiempo de los productos.
+ 
 ### Excluye:
 
 - [Descripción de lo que no está incluido en el proyecto]
