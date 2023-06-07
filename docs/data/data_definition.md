@@ -2,7 +2,7 @@
 
 ## Origen de los datos
 
-- [ ] Especificar la fuente de los datos y la forma en que se obtuvieron. 
+- En este proyecto, nos enfocaremos en analizar el comportamiento de la demanda histórica de productos de una multinacional de distribución de materias primas, centrándonos específicamente en un commoditie conocido como Glicerina. Obtendremos los datos necesarios directamente de las bases de datos del ERP SAP de la compañía. Estos datos proporcionarán información clave sobre las tendencias, patrones y variaciones en la demanda de Glicerina a lo largo del tiempo.
 
 ## Especificación de los scripts para la carga de datos
 
