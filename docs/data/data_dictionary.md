@@ -15,7 +15,7 @@
 | VolVentas |	Venta facturada 	| Int | 1 - 999999 | ERP SAP |
 | Cl.Aprovis |	Clase de aprovisionamiento 	| Int | 1 - 43 | ERP SAP |
 | Ingreso |	Ingreso en dólares	| Float | 0 - 999999 | ERP SAP |
-| Costo A |	Costo en dólares | 0 - 999999 | ERP SAP |
+| Costo A |	Costo en dólares | Float | 0 - 999999 | ERP SAP |
 
 - **Variable**: nombre de la variable.
 - **Descripción**: breve descripción de la variable.
