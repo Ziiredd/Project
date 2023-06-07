@@ -4,7 +4,7 @@ Este documento contiene los resultados del análisis exploratorio de datos.
 
 ## Resumen general de los datos
 
-El dataset contiene 5461159 registros, el tamaño en megabytes del archivo es de 27.81 MB, tenemos un número importante de faltantes que debremos preprocesar, el conjunto de datos cuenta con etiquetas continuas.
+El dataset contiene 5.461.159 registros, el tamaño en megabytes del archivo es de 27.81 MB, tenemos un número importante de faltantes que debremos preprocesar, el conjunto de datos cuenta con etiquetas continuas.
 
 
 ## Resumen de calidad de los datos
