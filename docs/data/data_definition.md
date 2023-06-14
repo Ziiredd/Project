@@ -18,6 +18,8 @@
 - El dataset es en formato de excel.
 - Se realizo la identificación y contabilización de valores faltantes o nulos, se realizo limpieza. Se eliminaron columnas no relevantes para el objetivo, reiniciamos indices, renombramos columnas, creamos columnas, generamos nuevo dataframe.
 
+![image](https://github.com/Ziiredd/Project/assets/116692880/c15f7b6f-4823-479c-a36f-42f2762fcb11)
+
 ### Base de datos de destino
 
 - [ ] Especificar la base de datos de destino para los datos.
