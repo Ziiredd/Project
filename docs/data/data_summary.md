@@ -9,15 +9,24 @@ El dataset contiene 5.461.159 registros, el tamaño en megabytes del archivo es 
 
 ## Resumen de calidad de los datos
 
-En esta sección se presenta un resumen de la calidad de los datos. Se describe la cantidad y porcentaje de valores faltantes, valores extremos, errores y duplicados. También se muestran las acciones tomadas para abordar estos problemas.
+El dataset cuenta con una gran cantidad de valores faltantes alrededor de 502875, este proble lo abordamos realizando un proceso de limpieza en los datos, para tener una mejor estructura de datos.
 
 ## Variable objetivo
 
-En esta sección se describe la variable objetivo. Se muestra la distribución de la variable y se presentan gráficos que permiten entender mejor su comportamiento.
+Se presenta el comportamiento de la varible:
+
+![image](https://github.com/Ziiredd/Project/assets/116692880/f0810c8f-c4ae-48fa-b266-c600fb0ddc5c)
+
 
 ## Variables individuales
 
-En esta sección se presenta un análisis detallado de cada variable individual. Se muestran estadísticas descriptivas, gráficos de distribución y de relación con la variable objetivo (si aplica). Además, se describen posibles transformaciones que se pueden aplicar a la variable.
+Análisis detallado de la variable objetivo:
+
+count      423
+unique     205
+top       2000
+freq        25
+Name: ventas, dtype: int64
 
 ## Ranking de variables
 
