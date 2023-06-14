@@ -6,10 +6,12 @@ Este documento contiene los resultados del análisis exploratorio de datos.
 
 El dataset contiene 5.461.159 registros, el tamaño en megabytes del archivo es de 27.81 MB, tenemos un número importante de faltantes que debremos preprocesar, el conjunto de datos cuenta con etiquetas continuas.
 
-
 ## Resumen de calidad de los datos
 
 El dataset cuenta con una gran cantidad de valores faltantes alrededor de 502875, este proble lo abordamos realizando un proceso de limpieza en los datos, para tener una mejor estructura de datos.
+
+![image](https://github.com/Ziiredd/Project/assets/116692880/5ba4dbee-d481-4aeb-9efc-8f9993ddf020)
+
 
 ## Variable objetivo
 
