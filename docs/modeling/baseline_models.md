@@ -28,6 +28,8 @@ Porcentaje de error absoluto medio (MAPE, por sus siglas en inglés): El MAPE es
 
 ![image](https://github.com/Ziiredd/Project/assets/116692880/02129236-91a0-4639-a813-d1a5e306814b)
 
+![image](https://github.com/Ziiredd/Project/assets/116692880/b0cfbe6b-62e8-4d28-ac7f-472e79089f71)
+
 Test Mean Squared Error: 	0.0205
 Test Mean Absolute Error: 	0.1188
 Test Mean squared log error: 	0.0101
