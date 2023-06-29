@@ -21,5 +21,5 @@
 
 - **Instrucciones de instalación:** Debe considerar la instalación de los paquetes pip asociados a librerías mencionadas.
 - **Instrucciones de configuración:** La mayoría de hiperparametros del modelo han sido explorados previamente y por consiguiente no se recomienda ninguna modificación sobre estos.
-- **Instrucciones de uso:** (instrucciones detalladas para utilizar el modelo en la plataforma de despliegue)
-- **Instrucciones de mantenimiento:** (instrucciones detalladas para mantener el modelo en la plataforma de despliegue)
+- **Instrucciones de uso:** Para poder tener acceso a nuestro servicio desde cualquier punto debemos abrir el 8000, no obstante esto se encuentran normalmente restringidos por nuestro operado de internet, para evadir dichas limitaciones usamos el servicio de ngrok. - ./Project/src/nombre_paquete/preprocessing/ngrok http 8000
+
