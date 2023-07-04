@@ -10,7 +10,9 @@
   - Software: Linux base OS (Manjaro Linux X86_64), kernel 6.1.31-MANJARO
   - Hardware: CPU: AMD Ryzen 5 5600X (12) @ 4.200GHz, GPU: NVIDIA GeForce RTX 3060, RAM: 31976 MiB
 - **Requisitos de seguridad:** No es necesario la autenticación ni la encriptación de los datos.
-- **Diagrama de arquitectura:** (imagen que muestra la arquitectura del sistema que se utilizará para desplegar el modelo)
+- **Diagrama de arquitectura:**
+![image](https://github.com/Ziiredd/Project/assets/116692880/158bc700-9c15-4643-a70d-ef57822ee248)
+
 
 ## Código de despliegue
 
