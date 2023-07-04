@@ -1,4 +1,4 @@
-# Proyecto aplicado programación de formación en machine learning and data science
+# Proyecto aplicado programa de formación en machine learning and data science
 
 Nuestro propósito es aplicar metodologías ágiles para el desarrollo de aplicaciones con Machine Learning, utilizando un dataset como punto de partida. A través de este enfoque, buscamos fomentar una gestión eficiente del proyecto, brindando flexibilidad y adaptabilidad en cada etapa del proceso.
 
